@@ -23,7 +23,7 @@ module.exports = {
     MENUTEXT: process.env.MENU === undefined ?'Admin' : process.env.MENU,
     CMENUTEXT: process.env.CUSTOMLIST === undefined ?'' : process.env.CUSTOMLIST,
     MENU_IMAGE: process.env.MENUIMG === undefined ?'' : process.env.MENUIMG,
-    CAPTION_KEY: process.env.CP === undefined ?'    ⚜ X-Troid Pro ⚜' : process.env.CP,
+    CAPTION_KEY: process.env.CP === undefined ?'    ☃Queen NCC' : process.env.CP,
     ALIVETEXT: process.env.ALIVEMSG === undefined ?'😈 Admin 😈' : process.env.ALIVEMSG,
     ALIVEIMG: process.env.ALIVEIMG === undefined ? 'https://telegra.ph/file/a143b34753c8434058e87.jpg' : process.env.ALIVEIMG,
     GIF_WEL: process.env.GIF_WEL === undefined ?'https://netfiletolink.herokuapp.com/49353' : process.env.GIF_WEL,
