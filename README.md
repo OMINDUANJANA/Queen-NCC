@@ -16,6 +16,24 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OMINDUANJANA/Queen-NCC.git)
 
+### The Hard Method
+
+```js
+
+git clone https://github.com/Quiec/WhatsAsena.git
+
+cd WhatsAsena
+
+npm i
+
+# Config.env oluşturun ve düzenleyin. #
+
+# Config.env create and edit. #
+
+node bot.js
+
+```
+
 
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 ## Thanks To
