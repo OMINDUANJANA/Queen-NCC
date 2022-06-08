@@ -22,7 +22,7 @@
 
 git clone https://github.com/Qu](https://github.com/OMINDUANJANA/Queen-NCC.git
 
-cd WhatsAsena
+cd Queen-NCC
 
 npm i
 
