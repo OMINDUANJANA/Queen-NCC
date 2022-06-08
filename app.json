@@ -1,8 +1,8 @@
 {
-    "name": "Xtroid",
-    "description": "Coded By Lasiya",
+    "name": "Queen NCC",
+    "description": "Coded By Omindu Anjana",
     "logo": "https://telegra.ph/file/2bb85d7b80b9ad96bcb96.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
+    "keywords": ["whatsapp", "userbot", "Queen NCC", "api", "ai"],
     "repository": "https://github.com/1XusernameX1/lizy",
     "website":   "lasiya.ml",
     "success_url": "https://t.me/danumabots",
@@ -163,7 +163,7 @@
         "CP": {
             "description": "This is Menu Caption of send media you can cange it here: bot ගෙන් send වෙන photo/video වල තිබිය යුතු නම වෙනස් කිරීමට",
             "required": false,
-            "value": "•--» 𝔁𝓉ŕ𝔬เⒹ «--•"
+            "value": "🄿🄾🅆🄴🅁🄳 𝙱𝚈 ☃𝒬ueen 𝓝𝓒𝓒"
         },
         "ALIVEIMG": {
             "description": "Customizable Alive Image!: ALIVE පණිවිඩයේ පින්තුරය  ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
