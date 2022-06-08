@@ -20,7 +20,7 @@
 
 ```js
 
-git clone https://github.com/Quiec/WhatsAsena.git
+git clone https://github.com/Qu](https://github.com/OMINDUANJANA/Queen-NCC.git
 
 cd WhatsAsena
 
