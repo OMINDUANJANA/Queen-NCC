@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EXLOONS/xtroid.git"
+    "url": "git+https://github.com/OMINDUANJANA/Queen-NCC.git"
   },
   "keywords": [
     "whatsapp bot",
     "bot",
     "ai",
     "danuma",
-    "xtroid"
+    "Queen NCC"
   ],
   "author": "XtroidDev / Yusuf Usta",
   "developer": "XtroidDev / @lasi",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/EXLOONS/xtroid"
+    "url": "https://github.com/OMINDUANJANA/Queen-NCC.git"
   },
   "homepage": "https://lasiya.ml",
   "dependencies": {
